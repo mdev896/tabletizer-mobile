@@ -1,4 +1,3 @@
-bu minimal bir expo uygulamasının nativewind(tailwind) eklenmiş halidir.
-tunnel kullanır, yani WSL uyumludur. (keşke daha önce bilseydim)
+<h2>Tabletizer Mobile App</h2>
 
-npm install && npm run android
+This is the mobile handler app for Tablizer program. Works using IPs of local computers and other devices.
