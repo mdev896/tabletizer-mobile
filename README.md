@@ -1,21 +1,21 @@
-# 📱 Tabletizer Mobile
+# Tabletizer Mobile
 
 Minimal **Expo + React Native** starter template with **NativeWind (TailwindCSS)** integration.
 Works seamlessly with **WSL (Windows Subsystem for Linux)** thanks to tunnel support.
 
 ---
 
-## 🚀 Features
+## Features
 
-* ⚡ Fast and lightweight Expo setup
-* 🎨 Tailwind-style utility classes via NativeWind
-* 🧱 Simple, scalable folder structure (`app/`, `assets/`, etc.)
-* 🔗 Tunnel support — no local network headaches on WSL
-* 💡 Ideal for bootstrapping small mobile projects
+* Fast and lightweight Expo setup
+* Tailwind-style utility classes via NativeWind
+* Simple, scalable folder structure (`app/`, `assets/`, etc.)
+* Tunnel support — no local network headaches on WSL
+* Ideal for bootstrapping small mobile projects
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ```bash
 # clone the repo
@@ -32,7 +32,7 @@ npm run android   # or 'npm run ios'
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **React Native**
 * **Expo**
@@ -42,7 +42,7 @@ npm run android   # or 'npm run ios'
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 tabletizer-mobile/
@@ -59,7 +59,7 @@ tabletizer-mobile/
 
 ---
 
-## 💻 Development Notes
+## Development Notes
 
 This project uses **tunnel mode** to run on devices from WSL environments.
 Make sure to have Expo CLI installed globally:
@@ -76,6 +76,7 @@ npm run android
 
 ---
 
-## 📄 License
+## License
 
-MIT © 2025 mdev896
+MIT © 2025 mehmedaltug
+
