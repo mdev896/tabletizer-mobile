@@ -19,7 +19,7 @@ Works seamlessly with **WSL (Windows Subsystem for Linux)** thanks to tunnel sup
 
 ```bash
 # clone the repo
-git clone https://github.com/mdev896/tabletizer-mobile.git
+git clone https://github.com/mehmedaltug/tabletizer-mobile.git
 
 cd tabletizer-mobile
 
@@ -79,4 +79,5 @@ npm run android
 ## License
 
 MIT © 2025 mehmedaltug
+
 
